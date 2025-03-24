@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\bin\Debug\StreamEncryption.exe.config
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\bin\Debug\StreamEncryption.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\bin\Debug\StreamEncryption.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.StreamEncryption.resources
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEncryption.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\bin\Debug\MyList.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\bin\Debug\MyList.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\ТИ\Лаба2Шифры\StreamEncryption\StreamEncryption\obj\Debug\StreamEn.F17FCA26.Up2Date
